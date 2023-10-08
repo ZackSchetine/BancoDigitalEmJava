@@ -1,4 +1,4 @@
-Criação de um banco digital seguindo o curso de Orientação a Objetos em Java da dio. O projeto tem funções básicas de uma conta como o Saque, Depósito, Transferência e Verificação do Extrato. Durante sua criação foi explorados os pilares de OO, os quais são citados abaixo.
+Criação de um banco digital seguindo o curso de Orientação a Objetos em Java da dio. O projeto tem funções básicas de uma conta como o Saque, Depósito, Transferência e Verificação do Extrato. Durante sua criação foram explorados os pilares de OO, os quais são citados abaixo.
 
 # Criando um Banco Digital com Java e Orientação a Objetos
 
